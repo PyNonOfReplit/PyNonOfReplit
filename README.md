@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @PyNonOfReplit
-- 👀 I’m interested in Python (heard my nemm)
-- 🌱 I’m currently learning Java and AI (no mixture though!)
-- 💞️ I’m looking to collaborate on Replit
-- 📫 How to reach me nihaalpalleti@duck.com (mail) and EintrachtPyNon#0058 (Discord).
+Hey there, I'm PyNon!
+You really shouldn't know more than this. It's injurious to health 😄
 
 <!---
 PyNonOfReplit/PyNonOfReplit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
